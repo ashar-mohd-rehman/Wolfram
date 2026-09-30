@@ -1,6 +1,9 @@
 title: Wolfram
+
 author: Ashar Mohd Rehman
+
 description: A 67 key Mechanical Keyboard with a volume knob and a display
+
 created_at: 2026-9-30
 
 # September 30 : Started and Finished Schematic 
