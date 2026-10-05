@@ -1,3 +1,11 @@
+---
+title: "Wolfram"
+github: "https://github.com/ashar-mohd-rehman/Wolfram"
+description: "A 67 Key Hotswappable Keyboard , With a tiny 0.49 inch display and a rotary encoder to control volume, Building this because I really like the keyboard universe the fact that even if you change one component your keboard will turn out completely different lol"
+created_at: "2026-10-05"
+total_time: "0m"
+---
+
 title: Wolfram
 
 github: "Wolfram"
@@ -76,10 +84,3 @@ After that I went on to assign my footprints which most of em were already assig
 and well after that I changed diodes from 532 to SOD 123 and gave a rotary encoder footprint  (ec11) <img width="1218" height="234" alt="Screenshot 2026-10-01 210956" src="https://github.com/user-attachments/assets/35834be6-46ed-46e5-ad79-999e164251f3" />
 
 # October 5, 2026: Total Time Spent: 2 Hours
-
-
-
-
-
-
-
