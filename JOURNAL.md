@@ -3,7 +3,7 @@ title: "Wolfram"
 github: "https://github.com/ashar-mohd-rehman/Wolfram"
 description: "A 67 Key Hotswappable Keyboard , With a tiny 0.49 inch display and a rotary encoder to control volume, Building this because I really like the keyboard universe the fact that even if you change one component your keboard will turn out completely different lol"
 created_at: "2026-9-30"
-total_time: "3Hrs"
+total_time: "0m"
 ---
 
 title: Wolfram
