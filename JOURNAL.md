@@ -1,10 +1,14 @@
 title: Wolfram
 
+github: "Wolfram"
+
 author: Ashar Mohd Rehman
 
 description: A 67 key Mechanical Keyboard with a volume knob and a display
 
 created_at: 2026-9-30
+
+total_time: "3h"
 
 # September 30 : Started and Finished Schematic 
 
@@ -42,3 +46,37 @@ After that I added both of these symbols and connected them to their respectable
 Heres how my final schematic is looking lol <img width="2066" height="894" alt="Screenshot 2026-09-30 201226" src="https://github.com/user-attachments/assets/e2a3c066-cc83-4721-bd14-84660b5a2ecd" />
 
 **Total Time Spent: 2 Hours**
+
+# October 5 : Assigned Footprints and Fixed schematic
+
+ So basically I realized that my keyboard needs stablizers and I decided to add em <img width="1142" height="374" alt="Screenshot 2026-10-01 204524" src="https://github.com/user-attachments/assets/9529c5b9-6b38-44c0-a158-6704537d6226" />
+
+After trying to understand what keys need what size stablizers I realized that they all have same symbol lol :/ 
+
+Then I went on and ran ERC( Electrical rules checker) <img width="1142" height="374" alt="Screenshot 2026-10-01 204524" src="https://github.com/user-attachments/assets/645db952-5437-4dd3-a16d-62dbf241b693" />
+
+ and fixed each one of em one by one with the help of google and gemini
+ <img width="1109" height="624" alt="Screenshot 2026-10-01 204817" src="https://github.com/user-attachments/assets/73219aa7-37f5-4a02-9ef6-7d5233276aa3" />
+
+ Bro then I realized instead of connecting rows to my diodes I connected them to switch legs lol and I wouldnt even realize it coz I was ignoring warnings but then I somehow did notice <img width="588" height="1186" alt="Screenshot 2026-10-01 205015" src="https://github.com/user-attachments/assets/587e9290-0188-402b-b631-0d802beae521" />
+
+ and fixed it aswell lol 
+<img width="430" height="1165" alt="Screenshot 2026-10-01 205100" src="https://github.com/user-attachments/assets/7d624551-baca-45a4-9003-06885ec2d064" />
+
+Heres how my final schematic be lookin now :0 
+
+<img width="1956" height="899" alt="Screenshot 2026-10-01 205648" src="https://github.com/user-attachments/assets/d8d27357-5cea-4972-a3f5-628dfb489318" />
+
+After that I went on to assign my footprints which most of em were already assigned but I had a hard time understanding what keys were what size until A quick google search told me that the sizes do not matter as the placer plugin I installed earlier takes care of that ( I was lowk sad couldnt find 2U size for backspace loll)
+<img width="603" height="220" alt="Screenshot 2026-10-01 210404" src="https://github.com/user-attachments/assets/e48bde71-c0c6-4e95-a2b8-dd58d7d12fd3" />
+
+and well after that I changed diodes from 532 to SOD 123 and gave a rotary encoder footprint  (ec11) <img width="1218" height="234" alt="Screenshot 2026-10-01 210956" src="https://github.com/user-attachments/assets/35834be6-46ed-46e5-ad79-999e164251f3" />
+
+**Total Time Spent: 1 Hours**
+
+
+
+
+
+
+
