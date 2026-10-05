@@ -70,11 +70,12 @@ Heres how my final schematic be lookin now :0
 <img width="1956" height="899" alt="Screenshot 2026-10-01 205648" src="https://github.com/user-attachments/assets/d8d27357-5cea-4972-a3f5-628dfb489318" />
 
 After that I went on to assign my footprints which most of em were already assigned but I had a hard time understanding what keys were what size until A quick google search told me that the sizes do not matter as the placer plugin I installed earlier takes care of that ( I was lowk sad couldnt find 2U size for backspace loll)
+
 <img width="603" height="220" alt="Screenshot 2026-10-01 210404" src="https://github.com/user-attachments/assets/e48bde71-c0c6-4e95-a2b8-dd58d7d12fd3" />
 
 and well after that I changed diodes from 532 to SOD 123 and gave a rotary encoder footprint  (ec11) <img width="1218" height="234" alt="Screenshot 2026-10-01 210956" src="https://github.com/user-attachments/assets/35834be6-46ed-46e5-ad79-999e164251f3" />
 
-**Total Time Spent: 1 Hours**
+# October 5, 2026: Total Time Spent: 2 Hours
 
 
 
