@@ -83,4 +83,4 @@ After that I went on to assign my footprints which most of em were already assig
 
 and well after that I changed diodes from 532 to SOD 123 and gave a rotary encoder footprint  (ec11) <img width="1218" height="234" alt="Screenshot 2026-10-01 210956" src="https://github.com/user-attachments/assets/35834be6-46ed-46e5-ad79-999e164251f3" />
 
-# October 5, 2026: Total Time Spent: 3 Hours
+# October 5, 2026: Total Time Spent: 2 Hours
