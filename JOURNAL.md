@@ -10,7 +10,8 @@ created_at: 2026-9-30
 
 total_time: "3h"
 
-# September 30 : Started and Finished Schematic 
+ # September 30, 2026: Started and Finished Schematic
+<!-- fabricate:entry -->
 
 I started by installing useful Libraries to my Kicad Project Named "Wolfram" (FUNFACT - Wolfram is german for Tungsten)
 <img width="1328" height="805" alt="Screenshot 2026-09-29 202338" src="https://github.com/user-attachments/assets/239b789a-2ae7-4c1a-9ef2-0abf270b8ea5" />
@@ -47,7 +48,8 @@ Heres how my final schematic is looking lol <img width="2066" height="894" alt="
 
 **Total Time Spent: 2 Hours**
 
-# October 5 : Assigned Footprints and Fixed schematic
+ # October 5, 2026: Assigned Footprints and Fixed schematic
+<!-- fabricate:entry -->
 
  So basically I realized that my keyboard needs stablizers and I decided to add em <img width="1142" height="374" alt="Screenshot 2026-10-01 204524" src="https://github.com/user-attachments/assets/9529c5b9-6b38-44c0-a158-6704537d6226" />
 
