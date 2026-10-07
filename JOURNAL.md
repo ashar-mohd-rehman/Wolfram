@@ -85,30 +85,29 @@ and well after that I changed diodes from 532 to SOD 123 and gave a rotary encod
 
 **Total Time Spent: 1.5 Hours**
 
- # October 7, 2026: Started Pcb Finished Matrix 
+# October 7, 2026: Started Pcb Finished Matrix 
 
  Using The Plugin I had installed earliear I Arranged my switches and diodes with the help of json file downloaded from keyboard layout manager 
 
- <img width="1179" height="978" alt="Screenshot 2026-10-06 192348" src="https://github.com/user-attachments/assets/738ba8e5-223f-45fa-9687-e413ef357a20" />
+ ![Screenshot 2026-10-06 192348](https://github.com/user-attachments/assets/738ba8e5-223f-45fa-9687-e413ef357a20)
 
  After much trial and error I found these settings which worked best 
 
- But then I saw my bottom row was a complete mess <img width="1907" height="549" alt="Screenshot 2026-10-05 204240" src="https://github.com/user-attachments/assets/0f820835-f708-4e10-9ace-88a121701ce5" />
+ But then I saw my bottom row was a complete mess ![Screenshot 2026-10-05 204240](https://github.com/user-attachments/assets/0f820835-f708-4e10-9ace-88a121701ce5)
 
-This was because the space bar was too long so I decided to change my schematic so that I can easily wire up the matrix <img width="1960" height="915" alt="Screenshot 2026-10-05 210016" src="https://github.com/user-attachments/assets/fba70022-02c1-4a47-bcf4-5101fd6d9e07" />
+This was because the space bar was too long so I decided to change my schematic so that I can easily wire up the matrix ![Screenshot 2026-10-05 210016](https://github.com/user-attachments/assets/fba70022-02c1-4a47-bcf4-5101fd6d9e07)
 
- I wanted to hide the pico on the backside of the board so I decided to place it on top <img width="1412" height="549" alt="Screenshot 2026-10-05 210718" src="https://github.com/user-attachments/assets/d40b8f8d-d06f-4aeb-b493-0989a4c419bb" />
+ I wanted to hide the pico on the backside of the board so I decided to place it on top ![Screenshot 2026-10-05 210718](https://github.com/user-attachments/assets/d40b8f8d-d06f-4aeb-b493-0989a4c419bb)
 
-But while wiring up the rows It woudlnt let me in a area <img width="2080" height="1205" alt="Screenshot 2026-10-05 211753" src="https://github.com/user-attachments/assets/5d0d1a9d-f054-4814-b846-5165311e73ba" />
+But while wiring up the rows It woudlnt let me in a area ![Screenshot 2026-10-05 211753](https://github.com/user-attachments/assets/5d0d1a9d-f054-4814-b846-5165311e73ba)
 This was because kiCad thought their was an antenna here but in real pico their is no antenna besides the W module which I am not gonna use so I edited the footprint to my needs after that I was able to wire it up 
 
-<img width="451" height="789" alt="Screenshot 2026-10-05 211819" src="https://github.com/user-attachments/assets/1f8b4a67-c026-4b24-8a33-1af364b2ee18" />
+![Screenshot 2026-10-05 211819](https://github.com/user-attachments/assets/1f8b4a67-c026-4b24-8a33-1af364b2ee18)
 
-I had wired my columns with blue so I needed to use read for rows but the diodes were smd and on the blue side so I decided to connect them with via <img width="516" height="463" alt="Screenshot 2026-10-06 200306" src="https://github.com/user-attachments/assets/c0c06988-8f10-486f-87e6-9b316cd24755" />
+I had wired my columns with blue so I needed to use read for rows but the diodes were smd and on the blue side so I decided to connect them with via ![Screenshot 2026-10-06 200306](https://github.com/user-attachments/assets/c0c06988-8f10-486f-87e6-9b316cd24755)
 
 But according to pcb making rules its a bad idea because the via can suck solder because of capilarry effect and create weak joints so after much more headache I found the best way to wire up the matrix 
-<img width="516" height="463" alt="Screenshot 2026-10-06 200306" src="https://github.com/user-attachments/assets/d64dc094-04f9-4f0b-a1f1-e6bc0cfe1ac4" />
+![Screenshot 2026-10-06 200306](https://github.com/user-attachments/assets/d64dc094-04f9-4f0b-a1f1-e6bc0cfe1ac4)
 
-I am still wonderin if I should place the pico on the backside of switches or seperatly 
-
-**Total Time Spent: 1 Hour**
+I am still wonderin if I should place the pico on the backside of switches or seperatly
+**Total Time Spent: 1 Hours**
