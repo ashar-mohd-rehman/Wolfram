@@ -111,3 +111,27 @@ But according to pcb making rules its a bad idea because the via can suck solder
 
 I am still wonderin if I should place the pico on the backside of switches or seperatly
 **Total Time Spent: 1 Hours**
+
+# October 14, 2026: Finally finished the error which was bugging me 
+
+so after finishing my pcb I ran the drc and kept getting these errors <img width="530" height="341" alt="Screenshot 2026-10-07 192253" src="https://github.com/user-attachments/assets/658df761-e33f-45c4-b0b8-1f55ef4a555a" />
+
+I tried to route them via wires that didnt work I only entangled myself. I tried ground pour that didnt work it created thermal reliefs and isolated copper islands <img width="913" height="444" alt="Screenshot 2026-10-07 192926" src="https://github.com/user-attachments/assets/9d4997d9-fd09-475b-a6d6-a82ae669c696" />
+
+After trying to fix it by routing again by gnd pour on the top layer I decided to ask for help on slack.
+
+They suggested to create ground pour and then connect isolated islands with wires, so I did that and it fixed my problems lol <img width="2157" height="1249" alt="Screenshot 2026-10-14 192437" src="https://github.com/user-attachments/assets/521950a3-dc27-4775-826c-8c8cb254a042" />
+
+Then I decided to design some cool silkscreen art in canva <img width="1438" height="726" alt="Screenshot 2026-10-14 195045" src="https://github.com/user-attachments/assets/c78622cd-a821-4d63-a0af-317a02d6efbe" />
+
+and added it to my pcb <img width="1403" height="446" alt="Screenshot 2026-10-14 195232" src="https://github.com/user-attachments/assets/94348e5d-0f7b-4bf1-8f55-4476c952e792" />
+
+and another one <img width="612" height="551" alt="Screenshot 2026-10-14 195431" src="https://github.com/user-attachments/assets/81f27af8-cd18-4d6e-a63c-590a62883e3d" />
+
+Then I added mounting holes 
+<img width="1349" height="992" alt="Screenshot 2026-10-14 201244" src="https://github.com/user-
+ attachments/assets/f218a34e-ec5b-41be-8ed8-21ecc45f2b7d" />
+
+and heres how the final pcb be lookin <img width="2121" height="666" alt="Screenshot 2026-10-14 200148" src="https://github.com/user-attachments/assets/e773806d-0502-4f2d-8c4b-78b31ea45212" />
+
+**Total Time Spent: 1 Hours**
